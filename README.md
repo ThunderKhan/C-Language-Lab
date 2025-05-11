@@ -1,7 +1,3 @@
-Here’s an improved version of your README file with a more engaging, structured, and professional tone:
-
----
-
 # C-Language-Lab
 
 Welcome to **C-Language-Lab**! 🚀
