@@ -1,4 +1,4 @@
-//A simple program to print my name.
+//A simple C program to print my name.
 
 #include <stdio.h>
 
